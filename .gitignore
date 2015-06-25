@@ -24,8 +24,8 @@ sitemap.xml.gz
 !wp-content/plugins/
 wp-content/uploads
 node_modules
-assets/components/foundation/css
-assets/components/foundation/scss
-assets/components/jquery
-assets/components/jquery-placeholder
-assets/components/jquery.cookie
+wp-content/themes/phptraining/assets/components/foundation/css
+wp-content/themes/phptraining/assets/components/foundation/scss
+wp-content/themes/phptraining/assets/components/jquery
+wp-content/themes/phptraining/assets/components/jquery-placeholder
+wp-content/themes/phptraining/assets/components/jquery.cookie
