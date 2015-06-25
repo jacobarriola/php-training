@@ -24,3 +24,8 @@ sitemap.xml.gz
 !wp-content/plugins/
 wp-content/uploads
 node_modules
+assets/components/foundation/css
+assets/components/foundation/scss
+assets/components/jquery
+assets/components/jquery-placeholder
+assets/components/jquery.cookie
