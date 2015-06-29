@@ -19,7 +19,7 @@ get_header(); ?>
 					</div>
 				</div>
 				<div class="row">
-					<?php echo do_shortcode('[verify-age]'); ?>
+					<?php echo do_shortcode('[verify]'); ?>
 				</div>
 				<div class="row">
 					<div class="medium-5 column">
